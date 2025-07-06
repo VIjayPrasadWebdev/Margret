@@ -17,12 +17,14 @@ export default function About() {
         scrub: 4,
         pin: true,
         anticipatePin: 5,
+        /** 
         markers: {
           startColor: "red",
           endColor: "white",
           fontSize: "50px",
           fontWeight: "bold",
         },
+        */
       },
     });
     aboutTimeline.fromTo(
